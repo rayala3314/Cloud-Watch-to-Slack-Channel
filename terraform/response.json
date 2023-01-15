@@ -1,0 +1,1 @@
+{"errorMessage": "Syntax error in module 'lambda_function': invalid syntax (lambda_function.py, line 4)", "errorType": "Runtime.UserCodeSyntaxError", "requestId": "f2e6448f-0034-4f13-a8a6-80523255e2fe", "stackTrace": ["  File \"/var/task/lambda_function.py\" Line 4\n    pip install awscli<1.16.312 --upgrade --user\n"]}
